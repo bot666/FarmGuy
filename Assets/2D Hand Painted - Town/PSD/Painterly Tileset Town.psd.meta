@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: f90ab8ea708b0f84296f7c0e29da7ccc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4607849724889868968
+    second: Painterly Tileset Town_0
+  - first:
+      213: 6834034179992343491
+    second: Painterly Tileset Town_1
+  - first:
+      213: 1676652451338748754
+    second: Painterly Tileset Town_2
+  - first:
+      213: 213781634446907405
+    second: Painterly Tileset Town_3
+  - first:
+      213: -6515346298126342203
+    second: Painterly Tileset Town_4
+  - first:
+      213: -620567285040904115
+    second: Painterly Tileset Town_5
+  - first:
+      213: 1471396396014423534
+    second: Painterly Tileset Town_6
+  - first:
+      213: 345110898879556125
+    second: Painterly Tileset Town_7
+  - first:
+      213: -714249060551314421
+    second: Painterly Tileset Town_8
+  - first:
+      213: -2465938242713844002
+    second: Painterly Tileset Town_9
+  - first:
+      213: 7166162579792931981
+    second: Painterly Tileset Town_10
+  - first:
+      213: 1015566732645974533
+    second: Painterly Tileset Town_11
+  - first:
+      213: -1413137439453123593
+    second: Painterly Tileset Town_12
+  - first:
+      213: 6850326069585043816
+    second: Painterly Tileset Town_13
+  - first:
+      213: 7642024598176139979
+    second: Painterly Tileset Town_14
+  - first:
+      213: -7288580819235668353
+    second: Painterly Tileset Town_15
+  - first:
+      213: 4412033750700964425
+    second: Painterly Tileset Town_16
+  - first:
+      213: 7244306904326691179
+    second: Painterly Tileset Town_17
+  - first:
+      213: -7854742633991964406
+    second: Painterly Tileset Town_18
+  - first:
+      213: -8812961768299467559
+    second: Painterly Tileset Town_19
+  - first:
+      213: -2014412990038876742
+    second: Painterly Tileset Town_20
+  - first:
+      213: -7884102913995588663
+    second: Painterly Tileset Town_21
+  - first:
+      213: -5644349185694547556
+    second: Painterly Tileset Town_22
+  - first:
+      213: -2710059653751940318
+    second: Painterly Tileset Town_23
+  - first:
+      213: 6947379706803416187
+    second: Painterly Tileset Town_24
+  - first:
+      213: -7987278649247838284
+    second: Painterly Tileset Town_25
+  - first:
+      213: 7974586843883415026
+    second: Painterly Tileset Town_26
+  - first:
+      213: 6412072003968159710
+    second: Painterly Tileset Town_27
+  - first:
+      213: -3379135848888772132
+    second: Painterly Tileset Town_28
+  - first:
+      213: -591168135069772698
+    second: Painterly Tileset Town_29
+  - first:
+      213: -2782116550858858765
+    second: Painterly Tileset Town_30
+  - first:
+      213: 7693848724910724190
+    second: Painterly Tileset Town_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Painterly Tileset Town_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 899
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855de81b611ad00c0800000000000000
+      internalID: -4607849724889868968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2039
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35251e0ed57de50800000000000000
+      internalID: 6834034179992343491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1283
+        width: 775
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25385dd658aa44710800000000000000
+      internalID: 1676652451338748754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_3
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1664
+        width: 355
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d5bc834187f200800000000000000
+      internalID: 213781634446907405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1190
+        width: 186
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e587cf07d495a0800000000000000
+      internalID: -6515346298126342203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 1024
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4888e7975d4367f0800000000000000
+      internalID: -620567285040904115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_6
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1320
+        width: 248
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedca34f9337b6410800000000000000
+      internalID: 1471396396014423534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 904
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae4d7b8841ac400800000000000000
+      internalID: 345110898879556125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 642
+        width: 199
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04bea0834a7616f0800000000000000
+      internalID: -714249060551314421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 516
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68dfcbb3a37cdd0800000000000000
+      internalID: -2465938242713844002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 278
+        width: 128
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c214bf5e2537360800000000000000
+      internalID: 7166162579792931981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_11
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 392
+        width: 192
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50241190094081e00800000000000000
+      internalID: 1015566732645974533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_12
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 394
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb67966cf6836ce0800000000000000
+      internalID: -1413137439453123593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 386
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e635044f311f50800000000000000
+      internalID: 6850326069585043816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 124
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca061302eced0a60800000000000000
+      internalID: 7642024598176139979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_15
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 0
+        width: 249
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7bb88c52c9da90800000000000000
+      internalID: -7288580819235668353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_16
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 253
+        width: 119
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab09ff151ba3d30800000000000000
+      internalID: 4412033750700964425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_17
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2
+        width: 395
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695d4c5fb2f88460800000000000000
+      internalID: 7244306904326691179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_18
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 374
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09facac0395ef290800000000000000
+      internalID: -7854742633991964406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_19
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 364
+        width: 126
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc696df6f112b580800000000000000
+      internalID: -8812961768299467559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_20
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 256
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abddcc1fe0e5b04e0800000000000000
+      internalID: -2014412990038876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_21
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 358
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbbba6eb2a069290800000000000000
+      internalID: -7884102913995588663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_22
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 368
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914966125e3ba1b0800000000000000
+      internalID: -5644349185694547556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_23
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5ff97a1fe36ad0800000000000000
+      internalID: -2710059653751940318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_24
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c66c7d80d0a6060800000000000000
+      internalID: 6947379706803416187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_25
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 208
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf458d036c772190800000000000000
+      internalID: -7987278649247838284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 184
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ac2cbb7c6bae60800000000000000
+      internalID: 7974586843883415026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 123
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfcfb6d3814cf850800000000000000
+      internalID: 6412072003968159710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_28
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9523f49d5ea11d0800000000000000
+      internalID: -3379135848888772132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_29
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 173
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d2aa96bfbbc7f0800000000000000
+      internalID: -591168135069772698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_30
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 10
+        width: 109
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe925ebcbfe369d0800000000000000
+      internalID: -2782116550858858765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painterly Tileset Town_31
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5455ebc6aa06ca60800000000000000
+      internalID: 7693848724910724190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
